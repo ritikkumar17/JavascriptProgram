@@ -17,11 +17,11 @@ for (let num of arr){
 console.log(rev)
 
 //3rd way
-let arr = [1,2,3,4]
-let rev = []
+// let arr = [1,2,3,4]
+// let rev = []
 
-for(let i = arr.length - 1; i >= 0; i--){
-    rev.push(arr[i])
-}
+// for(let i = arr.length - 1; i >= 0; i--){
+//     rev.push(arr[i])
+// }
 
-console.log(rev)
+// console.log(rev)
