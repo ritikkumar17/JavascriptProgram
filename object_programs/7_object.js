@@ -6,7 +6,7 @@ const users = [
     { name: "rohit", age: 28 }
 ]
 
-// asecinding sort 
+// Ascending sort 
 users.sort((a, b) => a.age - b.age)
 console.log(users)
 // Descending sort
